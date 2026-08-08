@@ -591,7 +591,6 @@ Python-OOP-Mastery/
 
 │
 ├── Modules/
-│
 ├── Module_01_OOP_Fundamentals
 ├── Module_02_Class_Design
 ├── Module_03_Encapsulation
@@ -604,8 +603,6 @@ Python-OOP-Mastery/
 ├── Module_10_Architecture
 │
 └── Projects/
-
-```
 ├── 01_Bank_Management_System
 ├── 02_Hospital_Management_System
 ├── 03_Library_Management_System
@@ -616,7 +613,7 @@ Python-OOP-Mastery/
 ├── 08_Flight_Booking_System
 ├── 09_Inventory_Warehouse_System
 └── 10_Application_Architecture
-```
+
 
 ````
 
